@@ -33,7 +33,7 @@ const Login = () => {
         </button>
         <span className="text-zinc-400">
           Don't have an account ?
-          <Link to="/signup">
+          <Link to="/register">
             <span className=" text-blue-600">SignUp</span>
           </Link>
         </span>
